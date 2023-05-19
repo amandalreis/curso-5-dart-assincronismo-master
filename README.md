@@ -1,6 +1,4 @@
-<h1>AmandaBOT</h1>
-
-<h2>Inteligência de ChatBOT feita em Dart.</h2>
+<h1>AmandaBOT: Inteligência de ChatBOT feita em Dart</h1>
 
 Para rodar esse projeto, faz-se necessário ter o Dart SDK já instalado.
 
