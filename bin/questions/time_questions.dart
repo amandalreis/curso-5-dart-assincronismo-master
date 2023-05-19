@@ -87,7 +87,7 @@ class TimeQuestions{
 
         String _botAnswer = amandaBot +
             ' Beleza, estamos no ano de 2077, a pandemia já está terminando... \n '
-                'Brincadeirinha! estamos em : ${date.year}';
+                'Brincadeirinha! estamos em: ${date.year}';
         print(_botAnswer);
       } else {
 
